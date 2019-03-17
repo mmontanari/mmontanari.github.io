@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-<loc>mariamontanari.com</loc>
-<lastmod>2018-04-13</lastmod>
+<loc>http://mariamontanari.com</loc>
+<lastmod>2019-03-17</lastmod>
 <changefreq>Weekly</changefreq>
 <priority>1.0</priority>
+</url>
+<url>
+<loc>http://mariamontanari.com/contatti.html</loc>
+<lastmod>2019-03-17</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>http://mariamontanari.com/articoli.html</loc>
+<lastmod>2019-03-17</lastmod>
+<changefreq>Weekly</changefreq>
+<priority>0.5</priority>
 </url>
 </urlset>
